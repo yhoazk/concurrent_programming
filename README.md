@@ -1,8 +1,7 @@
 # concurrent_programming
 Concurrent Programming learning path
 
-
-
+[Tutorial from Oracle](http://docs.oracle.com/javase/tutorial/essential/concurrency/)
 
 ### Concurrent vs Parallel
 
