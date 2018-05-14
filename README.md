@@ -2,7 +2,7 @@
 Concurrent Programming learning path
 
 [Tutorial from Oracle](http://docs.oracle.com/javase/tutorial/essential/concurrency/)
-
+https://www.sdsc.edu/~allans/cs260/cs260.html
 ### Concurrent vs Parallel
 
 According to [Linux Magazine](http://www.linux-mag.com/id/7411/)
